@@ -1,6 +1,7 @@
-neo4j
-pandas-dedupe
-fuzzywuzzy
+openai 
+psycopg2 
+collections 
+pandas_dedupe 
+fuzzywuzzy 
+nltk neo4j 
 jsonpath_ng
-python-Levenshtein
-textdistance
