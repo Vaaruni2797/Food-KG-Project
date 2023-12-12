@@ -1,7 +1,1 @@
-openai 
-psycopg2 
-collections 
-pandas_dedupe 
-fuzzywuzzy 
-nltk neo4j 
-jsonpath_ng
+!pip install openai psycopg2 collections numpy pandas pandas_dedupe fuzzywuzzy nltk neo4j jsonpath_ng
